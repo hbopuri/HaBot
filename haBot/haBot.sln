@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "haBot", "haBot\haBot.csproj", "{B4E378B5-12E7-45F5-BFFF-70FD008F0B18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "haBotLibrary", "haBotLibrary\haBotLibrary.csproj", "{7FF4ECB4-180B-44D3-91BA-6674AEBE777D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DLLs", "DLLs", "{A4474B0B-3B47-4098-9F0B-3003C2A1D6C7}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\..\..\rbgxGAC\assemblies\HtmlAgilityPack.dll = ..\..\..\..\..\..\rbgxGAC\assemblies\HtmlAgilityPack.dll
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4E378B5-12E7-45F5-BFFF-70FD008F0B18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4E378B5-12E7-45F5-BFFF-70FD008F0B18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4E378B5-12E7-45F5-BFFF-70FD008F0B18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4E378B5-12E7-45F5-BFFF-70FD008F0B18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FF4ECB4-180B-44D3-91BA-6674AEBE777D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FF4ECB4-180B-44D3-91BA-6674AEBE777D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FF4ECB4-180B-44D3-91BA-6674AEBE777D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FF4ECB4-180B-44D3-91BA-6674AEBE777D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
