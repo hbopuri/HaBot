@@ -1,0 +1,908 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.4376479547937,
+            25.3794172688558
+          ],
+          [
+            -80.4726498935045,
+            25.4326553676111
+          ],
+          [
+            -81.3751568637966,
+            30.2279026936705
+          ],
+          [
+            -81.3903525282489,
+            30.2933324684422
+          ],
+          [
+            -81.4132594254085,
+            30.3448228238072
+          ],
+          [
+            -81.4256375981614,
+            30.4615860316313
+          ],
+          [
+            -81.6879087787647,
+            30.7416884829039
+          ],
+          [
+            -81.72584,
+            30.97489
+          ],
+          [
+            -81.48428,
+            31.11753
+          ],
+          [
+            -81.4451163852801,
+            31.3547798257503
+          ],
+          [
+            -81.3428501582692,
+            31.9192813390056
+          ],
+          [
+            -81.0943832164124,
+            32.0567774810658
+          ],
+          [
+            -81.1378338743051,
+            32.1655958703212
+          ],
+          [
+            -81.0001390581115,
+            32.2443479142642
+          ],
+          [
+            -80.9556309776555,
+            32.2677372296262
+          ],
+          [
+            -80.9344502869624,
+            32.3158729998431
+          ],
+          [
+            -80.7158227131827,
+            32.3766290990687
+          ],
+          [
+            -80.7025704109776,
+            32.3836393479404
+          ],
+          [
+            -80.7051400923358,
+            32.6445945429603
+          ],
+          [
+            -80.4111302148439,
+            32.761171894445
+          ],
+          [
+            -80.5101067277235,
+            32.7642899957988
+          ],
+          [
+            -80.3014156247241,
+            32.7646307360611
+          ],
+          [
+            -80.4559178168372,
+            32.7711150648422
+          ],
+          [
+            -79.9698529655418,
+            32.7767649952822
+          ],
+          [
+            -80.1797178723413,
+            32.7799279588745
+          ],
+          [
+            -79.96051,
+            32.78339
+          ],
+          [
+            -80.1085731228806,
+            32.7971201610019
+          ],
+          [
+            -80.1085731228806,
+            32.7971201610019
+          ],
+          [
+            -80.1305430803155,
+            32.79814823381
+          ],
+          [
+            -80.11638729875,
+            32.8019896012332
+          ],
+          [
+            -79.7779117867773,
+            32.870918577793
+          ],
+          [
+            -79.6209720982403,
+            33.0342856014392
+          ],
+          [
+            -79.3970060843905,
+            33.1948630298988
+          ],
+          [
+            -79.2308707109783,
+            33.3645028611616
+          ],
+          [
+            -79.25749,
+            33.36605
+          ],
+          [
+            -79.1513605468047,
+            33.4277207206916
+          ],
+          [
+            -79.1361919936706,
+            33.4534700630376
+          ],
+          [
+            -78.9637753759158,
+            33.6288417224529
+          ],
+          [
+            -78.9184843057629,
+            33.6965963422247
+          ],
+          [
+            -78.0253309512692,
+            33.9361550382715
+          ],
+          [
+            -78.2686327971524,
+            34.0145038339042
+          ],
+          [
+            -77.8996454926971,
+            34.054878330988
+          ],
+          [
+            -77.8995883869493,
+            34.0566288644263
+          ],
+          [
+            -77.8297777999094,
+            34.2276800436404
+          ],
+          [
+            -77.8296183796967,
+            34.2279889114134
+          ],
+          [
+            -77.947474,
+            34.25048
+          ],
+          [
+            -77.957006,
+            34.252515
+          ],
+          [
+            -77.8260904457898,
+            34.2607624809558
+          ],
+          [
+            -77.8252790876339,
+            34.2610431362887
+          ],
+          [
+            -77.8239648429533,
+            34.2656877389393
+          ],
+          [
+            -77.8242862755773,
+            34.2658130625327
+          ],
+          [
+            -77.8251425210434,
+            34.2661606441997
+          ],
+          [
+            -77.7103908184225,
+            34.3677421647125
+          ],
+          [
+            -76.7368630138603,
+            34.7108609552094
+          ],
+          [
+            -76.694799871759,
+            34.720824004064
+          ],
+          [
+            -76.7342647023333,
+            34.7210938932816
+          ],
+          [
+            -76.6678792704616,
+            34.7224922182367
+          ],
+          [
+            -78.6233755361042,
+            35.758372198793
+          ],
+          [
+            -78.6256917208595,
+            35.7608357189617
+          ],
+          [
+            -78.6316783905336,
+            35.7721033535653
+          ],
+          [
+            -78.7143354243744,
+            35.8148149269908
+          ],
+          [
+            -78.7150349783404,
+            35.8153476122212
+          ],
+          [
+            -77.9596798289703,
+            36.7355900517126
+          ],
+          [
+            -77.9233543627375,
+            36.75560690727
+          ],
+          [
+            -77.4349399202703,
+            37.538162712232
+          ],
+          [
+            -77.4355069464176,
+            37.5390697913197
+          ],
+          [
+            -77.2595834848777,
+            38.6111375255489
+          ],
+          [
+            -77.2552326637085,
+            38.6153699225528
+          ],
+          [
+            -77.2490072255222,
+            38.6410340069179
+          ],
+          [
+            -77.2482077965892,
+            38.6466633753857
+          ],
+          [
+            -77.0450061968814,
+            38.717411707615
+          ],
+          [
+            -77.0443305021301,
+            38.7219820428121
+          ],
+          [
+            -76.6119885344014,
+            39.2461191471385
+          ],
+          [
+            -76.6297792170532,
+            39.2723551678225
+          ],
+          [
+            -76.6253682391315,
+            39.2743853479
+          ],
+          [
+            -76.6502819158292,
+            39.3669267149585
+          ],
+          [
+            -76.6410664301229,
+            39.3759591453247
+          ],
+          [
+            -76.6312621481509,
+            39.4090739011341
+          ],
+          [
+            -76.6306648674301,
+            39.4124532951421
+          ],
+          [
+            -76.1012174679268,
+            39.5534422604584
+          ],
+          [
+            -76.0738468803769,
+            39.5589317636778
+          ],
+          [
+            -76.070346,
+            39.569678
+          ],
+          [
+            -75.6042667318009,
+            39.6654255107826
+          ],
+          [
+            -75.348714,
+            39.853259
+          ],
+          [
+            -75.314601,
+            39.86611
+          ],
+          [
+            -75.2122322546157,
+            39.9371174100975
+          ],
+          [
+            -75.1014977041925,
+            39.9828258803382
+          ],
+          [
+            -74.9926683735124,
+            40.0210973426201
+          ],
+          [
+            -74.9550205640099,
+            40.0681562101878
+          ],
+          [
+            -74.843403,
+            40.118017
+          ],
+          [
+            -74.841415,
+            40.121866
+          ],
+          [
+            -74.777042,
+            40.205685
+          ],
+          [
+            -74.7667219469218,
+            40.2107029523032
+          ],
+          [
+            -74.728905,
+            40.248892
+          ],
+          [
+            -74.6473818006994,
+            40.339169828067
+          ],
+          [
+            -74.5822649891031,
+            40.5024767078577
+          ],
+          [
+            -74.4639652717866,
+            40.5079547630043
+          ],
+          [
+            -74.4646500312469,
+            40.5080789770681
+          ],
+          [
+            -74.4634833752946,
+            40.5094427528027
+          ],
+          [
+            -74.3972873510866,
+            40.5423007677516
+          ],
+          [
+            -74.2907448007355,
+            40.5933442584759
+          ],
+          [
+            -73.9739513187164,
+            40.7326391965347
+          ],
+          [
+            -73.9517848875575,
+            40.7651925619381
+          ],
+          [
+            -73.9456878810678,
+            40.8506351838234
+          ],
+          [
+            -73.96419,
+            40.85273
+          ],
+          [
+            -73.9399913191647,
+            40.8551344630776
+          ],
+          [
+            -71.436249,
+            41.942136
+          ],
+          [
+            -70.236428,
+            43.654477
+          ],
+          [
+            -70.249774,
+            43.657409
+          ],
+          [
+            -68.378153,
+            44.555167
+          ],
+          [
+            -67.263632,
+            44.956541
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "680 American Avenue Suite 101, King of Prussia, PA, 19406",
+        "marker-color": "#f90b0b",
+        "name": "Vibra Health Care Corporate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3946825,
+          40.0941887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "6200 Snider Road, Mason, OH, 45040",
+        "marker-color": "#f90b0b",
+        "name": "Kentfield Rehabilitation Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3287723,
+          39.3494641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "5910 North Federal Highway, Boca Raton, FL, 33487",
+        "marker-color": "#f90b0b",
+        "name": "Marlton Rehabilitation Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0756243,
+          26.4024068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "16940 Georgia Avenue, Olney, MD, 20832",
+        "marker-color": "#f90b0b",
+        "name": "New Bedford Rehabilitation Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.070792,
+          39.1348763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "302 Lippincott Dr, Evesham, NJ, 08053",
+        "marker-color": "#f90b0b",
+        "name": "North Valley Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.9245764,
+          39.885686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "2085 Lieberman Drive, Huntingdon Valley, PA, 19006",
+        "marker-color": "#f90b0b",
+        "name": "Northern California Rehabilitation Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0758069,
+          40.1184266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "1121 Reston Ave, Herndon, VA, 20170",
+        "marker-color": "#f90b0b",
+        "name": "San Joaquin Valley Rehabilitation Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3431656,
+          38.9970255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "5799 Bridgetown Road, Cincinnati, OH, 45248",
+        "marker-color": "#f90b0b",
+        "name": "Southern Kentucky Rehabilitation Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6395331,
+          39.1592091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "1100 Main Street, Reading, MA, 01867",
+        "marker-color": "#f90b0b",
+        "name": "Vibra Specialty Hospital of Portland LLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1052089,
+          42.54229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "814 East Main Street, Branford, CT, 06405",
+        "marker-color": "#f90b0b",
+        "name": "West Coast Billing Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7495683,
+          41.3091838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "123 West Brush Hill Road, Elmhurst, IL, 60126",
+        "marker-color": "#f90b0b",
+        "name": "Vibra Hospital of San Diego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9394162,
+          41.86218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "731 Alexander Road, Suite 204, Princeton, NJ, 08540",
+        "marker-color": "#f90b0b",
+        "name": "Ballard Rehab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.6372069,
+          40.322318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "717 Market Street, Suite 110, Lemoyne, PA, 17043",
+        "marker-color": "#f90b0b",
+        "name": "Hollinger Group"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9008741,
+          40.2445957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "1001 Higbee Drive, Bethel Park, PA, 15102",
+        "marker-color": "#f90b0b",
+        "name": "No Bill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0220963,
+          40.3362369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "2794 S Flamingo Road, Davie, FL, 33330",
+        "marker-color": "#f90b0b",
+        "name": "Vibra Hospital of Mahoning Valley"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3128235,
+          26.0843857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "1035 S. Route 59, Bartlett, IL, 60103",
+        "marker-color": "#f90b0b",
+        "name": "Vibra Hospital of Trumbull"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2057896,
+          41.969982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "3535 North Ashland Av, Chicago, IL, 60657",
+        "marker-color": "#f90b0b",
+        "name": "Vibra Hospital of Northwestern Indiana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6684004,
+          41.9459227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "1651 Old Meadow Road, Suite 100, McLean, VA, 22102",
+        "marker-color": "#f90b0b",
+        "name": "Vibra Specialty Hospital of Desoto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2097521,
+          38.9232418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "430 Concord Avenue, Lexington, MA, 02421",
+        "marker-color": "#f90b0b",
+        "name": "Summa Rehabilitation Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2359127,
+          42.4176359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "8155 Afton Road, Woodbury, MN, 55125",
+        "marker-color": "#f90b0b",
+        "name": "Vibra Hospital of Boise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.9415159,
+          44.9176571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "765 Stony Hill Road, Yardley, PA, 19067",
+        "marker-color": "#f90b0b",
+        "name": "Central Billing Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.8794721,
+          40.2234493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "466 Jack Martin Blvd, Brick, NJ, 08724",
+        "marker-color": "#f90b0b",
+        "name": "Vibra Hospital of Western Massachusetts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.133049,
+          40.0809097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "801 Chestnut Ridge Road, Spring Valley, NY, 10977",
+        "marker-color": "#f90b0b",
+        "name": "Vibra Hospital of Western Massachusetts - Central Campus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.057781,
+          41.084362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "553 North State Road, Briarcliff Manor, NY, 10510",
+        "marker-color": "#f90b0b",
+        "name": "Vibra Hospital of Charleston"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8198049,
+          41.1680963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "6400 Goldsboro Road Suite 300, Bethesda, MD, 20817",
+        "marker-color": "#f90b0b",
+        "name": "Vibra Hospital of Central Dakotas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1296249,
+          38.9701108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "1 Industrial Way West, Suite A, Eatontown, NJ, 07724",
+        "marker-color": "#f90b0b",
+        "name": "Vibra Hospital of Fargo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0460639,
+          40.27521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "1139-3 Jericho Turnpike, Commack, NY, 11725",
+        "marker-color": "#f90b0b",
+        "name": "Vibra Hospital of Amarillo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.265041,
+          40.8473887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "332 Ridge Road, Wilmette, IL, 60091",
+        "marker-color": "#f90b0b",
+        "name": "Vibra Rehabilitation Hospital of Amarillo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.72233,
+          42.0715385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "51 Clayton Boulevard, Yorktown Heights, NY, 10598",
+        "marker-color": "#f90b0b",
+        "name": "Vibra Hospital of Sacramento"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7625699,
+          41.3412837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "1651 Old Meadow Road, McLean, VA, 22102",
+        "marker-color": "#f90b0b",
+        "name": "Vibra Hospital of Richmond"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2097521,
+          38.9232418
+        ]
+      }
+    }
+  ]
+}
